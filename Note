@@ -1,0 +1,2 @@
+Points for consideration:
+1. How to set env variable in .evn file to incorporate clientid and clientkey value which is required for oauth with salesforce org
